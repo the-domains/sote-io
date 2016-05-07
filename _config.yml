@@ -1,0 +1,28 @@
+name: sote.io
+favicon: null
+layout_spectrum: 0.51345658255741
+typography_spectrum: 0.5678049447014928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48149966821074486
+  lightness: 0.44054278428666294
+  saturation: 0.00554283638484776
+  rhythmicContrast: 0.9883019106928259
+purpose: []
