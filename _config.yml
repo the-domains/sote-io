@@ -1,20 +1,4 @@
-name: sote.io
-favicon: null
-layout_spectrum: 0.23092
 typography_spectrum: 0.76154
-title: sote.io - Terveyden kulttuuria
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fdfdfd'
@@ -26,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23092
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: sote.io
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: sote.io
 purpose: []
